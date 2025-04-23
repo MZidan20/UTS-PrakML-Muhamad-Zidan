@@ -18,7 +18,7 @@ Menampilkan informasi umum pada csv.<br>
 Mengelompokkan data menjadi tiga kategori ukuran (small, medium, large) berdasarkan berat.
 
 # 5. Visualisasi Data
-Membuat visualisasi pairplot untuk melihat hubungan antar fitur berdasarkan kategori ukuran.
+Membuat visualisasi pairplot untuk melihat hubungan antar fitur berdasarkan kategori ukuran. <br>
 ![image](https://github.com/user-attachments/assets/c941daf7-8515-4589-bdac-4f059286c99b)
 
 # 6. Persiapan Data untuk Model
@@ -31,18 +31,18 @@ X_train, X_test, y_train, y_test = train_test_split(...)
 Membagi data menjadi data latih dan uji (70:30) agar model bisa dievaluasi dengan data yang belum dilihat.
 
 # 8. Train Model
-Membuat dan melatih model Decision Tree untuk klasifikasi kategori ukuran.
+Membuat dan melatih model Decision Tree untuk klasifikasi kategori ukuran. <br>
 <img width="197" alt="image" src="https://github.com/user-attachments/assets/7b082281-df7f-486d-b9cd-a8d1ccad6b2f" />
 
 # 9.  Evaluasi Model
-Menampilkan metrik evaluasi (precision, recall, f1-score) dan matriks kebingungan untuk menilai kinerja model.
+Menampilkan metrik evaluasi (precision, recall, f1-score) dan matriks kebingungan untuk menilai kinerja model. <br>
 <img width="227" alt="image" src="https://github.com/user-attachments/assets/caea9390-14c0-4717-90ae-bbdf288ff19f" />
 
-# 10. Confusion Matrix
+# 10. Confusion Matrix <br>
 <img width="235" alt="image" src="https://github.com/user-attachments/assets/429e10e7-49ee-4482-b0ab-a51ab1fa0312" />
 
 # 11. Visualisasi Decision Tree
-Menampilkan struktur pohon keputusan yang telah dilatih untuk interpretasi logika klasifikasi.
+Menampilkan struktur pohon keputusan yang telah dilatih untuk interpretasi logika klasifikasi. <br>
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/0d7e25d7-d86e-48b7-a139-e51219cad69d" />
 
 # 12. Example prediction
