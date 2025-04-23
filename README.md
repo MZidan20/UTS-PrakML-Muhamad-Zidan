@@ -7,11 +7,11 @@ Sebagai informasi data tersebut dataset yang terdapat identifikasi sebagai buah 
 <img width="246" alt="image" src="https://github.com/user-attachments/assets/106257c3-12c8-4f22-8ca3-f581b2818581" />
 
 # 2. Load Dataset
-Membaca data citrus dari file CSV .
+Membaca data citrus dari file CSV . <br>
 <img width="172" alt="image" src="https://github.com/user-attachments/assets/c858849d-1368-4113-86cb-2b48199dd935" />
 
 # 3. Eksplorasi Data
-Menampilkan informasi umum pada csv.
+Menampilkan informasi umum pada csv.<br>
 <img width="274" alt="image" src="https://github.com/user-attachments/assets/32fa951b-65de-4ec4-95b1-29617b3587e0" />
 
 # 4. Label Kategori Ukuran
